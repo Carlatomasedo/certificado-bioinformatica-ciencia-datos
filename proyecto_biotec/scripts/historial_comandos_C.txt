@@ -1,0 +1,16 @@
+  230  grep "Drosophila_melanogaster" datos_muestras.txt
+  231  grep "secuencias_DNA.fasta
+  232  grep -c "^>" secuencias_DNA.fasta
+  233  cd ~/proyecto_biotec
+  234  mkdir temp_borrar
+  235  touch temp_borrar/ prueba.txt
+  236  rmdir tempborrar
+  237  rmdir temp_borrar
+  238  mkdir temp_borrar
+  239  touch temp_borrar/ prueba.txt
+  240  ls temp_borrar
+  241  ls temp_borrar
+  242  rmdir temp_borrar
+  243  rm temp_borrar
+  244  rm -r temp_borrar
+  245  history scripts/historial_comandos_C.txt

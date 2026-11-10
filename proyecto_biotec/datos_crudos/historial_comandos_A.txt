@@ -1,0 +1,16 @@
+  258  cat README.txt
+  259  cd ~/Desktop/Biotecnología/1er_Semestre/Fundamentos
+  260  cat README.txt
+  261  cd ~/fcb_material_practica1
+  262  cat README.txt
+  263  man ls
+  264  history
+  265  whoami
+  266  pwd
+  267  ls -a ~/fcb_material_practica1
+  268  ls -lS ~/fcb_material_practica1
+  269  ls -lS ~/fcb_material_practica1/analisis_previos
+  270  cd ~/fcb_material_practica1
+  271  cat README.txt
+  272  man ls
+  273  history

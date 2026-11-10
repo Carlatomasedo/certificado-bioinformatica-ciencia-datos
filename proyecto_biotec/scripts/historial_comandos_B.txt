@@ -1,0 +1,16 @@
+  194  touch resultados/ mis\resultados\finales.txt
+  195  rm resultados/mis\ resultados\ finales.txt
+  196  rm resultados/mis\resultados\finales.txt
+  197  rm resultados/ mis\resultados\finales.txt
+  198  touch datos_crudos/ datos_experimentales.csv
+  199  touch datos_procesados/ datos_limpios.csv
+  200  touch scripts/ analisis.txt
+  201  touch documentacion/ notas.txt
+  202  rm scripts/ analisis.txt
+  203  touch scripts/ analisis.sh
+  204  ls datos_crudos datos_procesados scripts documentacion
+  205  cat> documentacin/resumen_tema1.txt<<
+  206  cat> documentacin/resumen_tema1.txt<<'EOF'\nEl Kernel es la parte central de un sistema operativo, este se encarga de gestionar recursos del ordenador, como por ejemplo la memoria Ram o el procesador. Además, permite la comunicación entre el hardware y los programas.\nLa shell es quien interpreta los comandos, mientras que la terminal es la aplicación donde se introducen los comandos.\nUnix/Linux es relevante en bioinformática porque ofrece herramientas para procesar grandes cantidades de datos. Además, permite trabajar fácilmente con servidores de alto rendimiento.\nEOF
+  207  cat documentacin/resumen_tema1.txt
+  208  cat> documentacion/resumen_tema1.txt<<'EOF'\ncat> documentacin/resumen_tema1.txt<<'EOF'\nEl Kernel es la parte central de un sistema operativo, este se encarga de gestionar recursos del ordenador, como por ejemplo la memoria Ram o el procesador. Además, permite la comunicación entre el hardware y los programas.\nLa shell es quien interpreta los comandos, mientras que la terminal es la aplicación donde se introducen los comandos.\nUnix/Linux es relevante en bioinformática porque ofrece herramientas para procesar grandes cantidades de datos. Además, permite trabajar fácilmente con servidores de alto rendimiento.\nEOF
+  209  cat documentacion/resumen_tema1.txt

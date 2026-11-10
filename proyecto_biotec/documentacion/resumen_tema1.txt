@@ -1,0 +1,4 @@
+cat> documentacin/resumen_tema1.txt<<'EOF'
+El Kernel es la parte central de un sistema operativo, este se encarga de gestionar recursos del ordenador, como por ejemplo la memoria Ram o el procesador. Además, permite la comunicación entre el hardware y los programas.
+La shell es quien interpreta los comandos, mientras que la terminal es la aplicación donde se introducen los comandos.
+Unix/Linux es relevante en bioinformática porque ofrece herramientas para procesar grandes cantidades de datos. Además, permite trabajar fácilmente con servidores de alto rendimiento.
